@@ -1,0 +1,11 @@
+Assumptions
+
+
+The excutable jar file must be compiled by java 8 to avoid exceptions
+
+
+Labor Division
+
+In this project we all worked together using github, teamviewer software, and zoom meetings . We planned exactly what needs to be done and we all worked together on achieving it . 
+
+
